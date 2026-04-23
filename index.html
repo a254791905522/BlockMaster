@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BlockMaster - Tetris Style Block Puzzle Game</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); color: #fff; min-height: 100vh; }
+        .container { max-width: 800px; margin: 0 auto; padding: 40px 20px; }
+        h1 { font-size: 2.5rem; margin-bottom: 10px; color: #4fd1c5; }
+        .subtitle { font-size: 1.2rem; color: #a0aec0; margin-bottom: 30px; }
+        .screenshots { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 30px 0; }
+        .screenshot img { width: 100%; border-radius: 12px; aspect-ratio: 9/19.5; object-fit: cover; }
+        .description { background: rgba(255,255,255,0.05); padding: 25px; border-radius: 12px; margin: 20px 0; }
+        .description h2 { color: #4fd1c5; margin-bottom: 15px; }
+        .description p { line-height: 1.8; color: #e2e8f0; margin-bottom: 15px; }
+        .features { list-style: none; padding: 0; }
+        .features li { padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.1); }
+        .features li:before { content: "✓"; color: #4fd1c5; margin-right: 10px; }
+        .info-box { background: rgba(79, 209, 197, 0.1); border: 1px solid #4fd1c5; border-radius: 12px; padding: 20px; margin: 20px 0; }
+        .info-box h3 { color: #4fd1c5; margin-bottom: 10px; }
+        .info-box p { color: #a0aec0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>BlockMaster</h1>
+        <p class="subtitle">Classic Tetris-Style Block Puzzle Game</p>
+
+        <div class="screenshots">
+            <div class="screenshot"><img src="Screenshots/screenshot1.png" alt="Gameplay Screenshot 1"></div>
+            <div class="screenshot"><img src="Screenshots/screenshot2.png" alt="Gameplay Screenshot 2"></div>
+            <div class="screenshot"><img src="Screenshots/screenshot3.png" alt="Gameplay Screenshot 3"></div>
+            <div class="screenshot"><img src="Screenshots/screenshot4.png" alt="Gameplay Screenshot 4"></div>
+            <div class="screenshot"><img src="Screenshots/screenshot5.png" alt="Gameplay Screenshot 5"></div>
+            <div class="screenshot"><img src="Screenshots/screenshot6.png" alt="Gameplay Screenshot 6"></div>
+        </div>
+
+        <div class="description">
+            <h2>Game Description</h2>
+            <p>BlockMaster is a classic Tetris-style block puzzle game that challenges your spatial reasoning and reaction speed. Drop blocks to form complete lines and clear them for points. Features multiple game modes including Classic Mode and Challenge Mode with 50 progressively challenging levels.</p>
+            <p>Simple one-touch controls make it easy to pick up, but difficult to master. Compete for high scores and unlock new levels as you progress through challenging chapters.</p>
+        </div>
+
+        <div class="description">
+            <h2>Features</h2>
+            <ul class="features">
+                <li>Classic Tetris-style gameplay with modern visuals</li>
+                <li>Two game modes: Classic and Challenge (50 levels)</li>
+                <li>Star rating system for completed levels</li>
+                <li>Smooth touch controls optimized for mobile</li>
+                <li>Customizable sound and music settings</li>
+                <li>High score tracking</li>
+                <li>Game pause and resume functionality</li>
+                <li>Beautiful neon cyberpunk aesthetic</li>
+            </ul>
+        </div>
+
+        <div class="info-box">
+            <h3>App Information</h3>
+            <p><strong>Genre:</strong> Puzzle / Arcade</p>
+            <p><strong>Compatibility:</strong> iOS 13.0+</p>
+            <p><strong>Size:</strong> ~50MB</p>
+            <p><strong>Version:</strong> 1.0.0</p>
+        </div>
+    </div>
+</body>
+</html>
