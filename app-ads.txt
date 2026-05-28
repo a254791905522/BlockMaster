@@ -61,10 +61,8 @@ video.unrulymedia.com, 2444764291, RESELLER
 triplelift.com, 13423, RESELLER, 6c33edb13117fd86
 display.io, 156748, RESELLER
 pubmatic.com, 167323, RESELLER, 5d62403b186f2ace
-yandex.com, 111138458, DIRECT
 my-cast.tv, 987137, RESELLER, 8c33fe1bd714ffd7
 app-stock.com, 509221, RESELLER, ed8c126ea5971415
-yango-ads.com, 111138458, DIRECT
 conversantmedia.com, 100358, RESELLER, 03113cd04947736d
 triplelift.com, 12456, RESELLER, 6c33edb13117fd86
 adyoulike.com, f3d16fa10382ca99dca498bd4e9659c4, RESELLER
@@ -122,6 +120,7 @@ lijit.com, 551525, RESELLER, fafdf38b16bf6b2b
 sonobi.com, 97e60f3067, RESELLER, d1a215d9eb5aee9e
 bidmachine.io, 1201, RESELLER
 themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
+yandex.com, 325785759, DIRECT
 admanmedia.com, 647, RESELLER
 bold-win.com, 1080, RESELLER, 71746737d0bab951
 zetaglobal.net, 689, RESELLER
@@ -151,6 +150,7 @@ adyoulike.com, f78b24039641337f06634ab9a3da4b48, RESELLER
 krushmedia.com, AJxF6R572a9M6CaTvK, RESELLER
 pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
+yango-ads.com, 325785759, DIRECT
 azberry.com, 121011, RESELLER
 bidmachine.io, 200, RESELLER
 triplelift.com, 14699, RESELLER, 6c33edb13117fd86
